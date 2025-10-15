@@ -12,6 +12,7 @@
     <a href="http://">home</a>
     <a href="{{url('/latihan')}}">latihan</a>
     <a href="{{url('/latihan_dua')}}">latihan 2</a>
+    <a href="{{url('/home')}}">home</a>
     <a href="https://www.matanauniversity.ac.id/">web matana</a>
 
 </body>

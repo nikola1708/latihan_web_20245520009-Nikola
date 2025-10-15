@@ -1,5 +1,5 @@
 @extends ('layout.default')
 
 @section('main_content')
-    <p> ini home  </p>
+<h1>ini halaman latihan</h1>
 @endsection

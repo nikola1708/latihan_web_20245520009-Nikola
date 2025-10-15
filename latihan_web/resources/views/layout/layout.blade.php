@@ -9,7 +9,7 @@
         </title>
 </head>
 <body>
-    <header> @yield('header')</header>
+    <header> @yield('header_content')</header>
     <main> @yield('main_content')</main>
     <footer> @yield('footer','default footer text')</footer>
 </body>

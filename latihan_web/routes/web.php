@@ -14,6 +14,14 @@ Route::get('/latihan_dua', function () {
     return view('latihan/latihan2');
 });
 
+//homepage//layout.blade.php
+
 Route::get('/home', function () {
     return view('latihan/home');
 });
+
+
+Route::get('/master', function () {
+    return view('latihan/master');
+});
+
